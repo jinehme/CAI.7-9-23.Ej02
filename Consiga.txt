@@ -1,0 +1,17 @@
+Ejercicio 02
+
+Se requiere el ingreso de los datos de un auto.
+
+· Marca (requerido, una de las siguientes: Ford / Fiat / Chevrolet / Audi).
+
+· Modelo (requerido, max. 30 – texto libre, sin relación con la marca).
+
+· Año (requerido, 4 cifras, entre 2000 y 2021).
+
+· Precio (requerido, >0)
+
+La pantalla también debe mostrar:
+
+· El nombre de usuario y real del operador del sistema.
+
+· La fecha actual
